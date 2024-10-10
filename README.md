@@ -1,12 +1,10 @@
-# Faiaz Ahsan
+# Robotics Engineer
 
-### Education
-B.Sc in Mechatronics Engineering | CGPA: 3.47 out of 4.00
-Rajshahi University of Engineering & Technology (RUET)
+## Education
+- BS, Mechatronics Engineering | Rajshahi University of Engineering & Technology (RUET) (_October 2023_)
 
 ### Work Experience
-Assistant Engineer
-Anwar Group of Industries
+-Assistant Engineer @ Anwar Group of Industries
 
 
 ### Projects
