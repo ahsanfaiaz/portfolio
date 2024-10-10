@@ -10,5 +10,5 @@
 ## Projects
 ### Developing industrial IoT-based production monitoring system for Injection Molding Machine
 My first project as an R&D robotics engineer at Anwar Group! I developed a low-cost IoT solution for monitoring the production of our very old Injection Molding Machine in real-time. 
-![Factory Automation](/img/device1.jpg  = 250x250)
+![Factory Automation](/img/device1.jpg "Title" {width=40px height=400px})
 
