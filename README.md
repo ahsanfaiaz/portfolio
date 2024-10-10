@@ -3,8 +3,8 @@
 ## Education
 - BS, Mechatronics Engineering | Rajshahi University of Engineering & Technology (RUET) (_October 2023_)
 
-### Work Experience
--Assistant Engineer @ Anwar Group of Industries
+## Work Experience
+-Assistant Engineer @ Anwar Group of Industries (_Feb 2024 - Present_)
 
 
-### Projects
+## Projects
